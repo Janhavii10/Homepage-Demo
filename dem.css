@@ -191,7 +191,7 @@
 .last {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background: rgba(0, 0, 0, 0.7) url('img2.jpeg');
     background-size: cover;
     background-blend-mode: darken;
